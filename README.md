@@ -2,32 +2,42 @@
 
 # 🚀 LeetCode Solutions
 
-<img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" />
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/yashwanthgalla/)
+![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-A collection of my LeetCode solutions written in **Python**.
+A repository containing my accepted **LeetCode** solutions in **Python**, automatically synced using **LeetSync**.
 
 </div>
 
 ---
 
-## 📖 About
+## 👨‍💻 About
 
-This repository contains my accepted LeetCode solutions synced automatically using **LeetSync**.
+This repository documents my journey of solving LeetCode problems to strengthen my understanding of:
 
-The main purpose of this repository is to:
+- Data Structures
+- Algorithms
+- Problem Solving
+- Coding Interview Preparation
 
-- 🧠 Improve problem-solving skills
-- 📚 Master Data Structures & Algorithms
-- 💼 Prepare for coding interviews
-- 📈 Track my coding journey
+Each solution is accepted on LeetCode and synced automatically using **LeetSync**.
 
 ---
 
-## 💻 Language
+## 🔗 Profiles
+
+- **LeetCode:** https://leetcode.com/u/yashwanthgalla/
+- **GitHub:** https://github.com/yashwanthgalla
+
+---
+
+## 🛠️ Tech Stack
 
 - Python 🐍
+- LeetCode
+- GitHub
+- LeetSync
 
 ---
 
@@ -47,59 +57,26 @@ leetcode/
 ```
 
 Each folder contains:
-- ✅ Problem solution
-- ✅ LeetCode problem description (when synced)
-- ✅ Runtime & Memory statistics
+- Solution
+- Problem statement
+- Runtime statistics
+- Memory usage
 
 ---
 
-## 📊 Progress
+## 🎯 Goals
 
-| Difficulty | Solved |
-|-----------:|:------:|
-| 🟢 Easy | 8+ |
-| 🟡 Medium | 1+ |
-| 🔴 Hard | 0 |
-| **Total** | **9+** |
+- ✅ Solve problems consistently
+- ✅ Improve algorithmic thinking
+- ✅ Master DSA concepts
+- ✅ Prepare for technical interviews
 
 ---
 
-## 🎯 Topics Covered
-
-- Arrays
-- Strings
-- Hashing
-- Binary Search
-- Math
-- Bit Manipulation
-- Sorting
-
-More topics will be added as I solve additional problems.
-
----
-
-## 🛠️ Tools
-
-- Python
-- LeetCode
-- LeetSync
-- GitHub
-
----
-
-## ⭐ Repository Goals
-
-- Solve LeetCode problems consistently.
-- Learn multiple approaches to each problem.
-- Improve coding speed and accuracy.
-- Prepare for technical interviews.
-
----
+## ⭐ If you find this repository useful, consider giving it a star!
 
 <div align="center">
 
-### ⭐ Star this repository if you find it useful!
-
-Happy Coding 🚀
+### Happy Coding! 🚀
 
 </div>
